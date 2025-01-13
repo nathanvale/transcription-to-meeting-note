@@ -18,8 +18,12 @@
     }
   ],
   "dependencies": {
+    "@notionhq/client": "^2.2.15",
     "@raycast/api": "^1.88.4",
-    "@raycast/utils": "^1.17.0"
+    "@raycast/utils": "^1.17.0",
+    "@types/invariant": "^2.2.37",
+    "dotenv": "^16.4.7",
+    "invariant": "^2.2.4"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.11",
